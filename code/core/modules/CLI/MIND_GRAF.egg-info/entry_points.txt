@@ -1,0 +1,7 @@
+[console_scripts]
+clear = basicCmd:clear
+define = basicCmd:define
+mgraf = basicCmd:mgraf
+remove = basicCmd:remove
+show = basicCmd:show
+trace = basicCmd:trace
